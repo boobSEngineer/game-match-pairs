@@ -1,0 +1,22 @@
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9922ce;
+    border-top: 15px solid #ffffff;
+    border-bottom: 15px solid #ffffff;
+}
+
+canvas {
+    height: 300px;
+    width: 700px;
+}
+
+h1 {
+    color: yellow;
+    padding: 10px 0;
+}
